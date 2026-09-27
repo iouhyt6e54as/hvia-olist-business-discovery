@@ -106,9 +106,9 @@ jupyter notebook olist_analysis_final.ipynb
 
 ## 👤 Author
 
-**Shahd Ahmed Farghaly**
+[**Shahd Ahmed Farghaly**]
 Data Analysis Trial Task — HVIA Data & AI Solutions
-shahdfarghaly2005@gmail.com
+[shahdfarghaly2005@gmail.com]
 *This project was completed as part of an HVIA Data & AI Solutions internship trial task,
 evaluating research, analytical thinking, and business communication skills using a real-world
 dataset.*
